@@ -23,7 +23,7 @@ Atualmente, sou um desenvolvedor em formação, profundamente interessado em des
 
 Neste momento, meu objetivo é aprimorar a compreensão das tecnologias de front-end e back-end, visando construir projetos que proporcionem uma experiência do usuário excepcional.
 
-## 📫 Contatos
+## 📫 Entre em contato comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/?view=cm&fs=1&to=ivofernan12@gmail.com&su=Assunto&body=Mensagem)
