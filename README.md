@@ -34,7 +34,7 @@ Neste momento, meu objetivo é aprimorar a compreensão das tecnologias de front
 Bem-vindo ao meu repositório! Aqui encontras uma coleção dos meus projetos mais recentes, organizados por área de desenvolvimento. Dê uma olhada nos destaques abaixo:
 
 ### 🚀 Últimos Projetos
-#### <a href="https://www.exemplo.com">1. 🌐 Projeto Front-end</a>
+#### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Projeto Front-end</a>
 
 
 Projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva.. 
@@ -47,7 +47,7 @@ Integração com APIs
 
 <a href="https://github.com/eoivo/projeto-front-end">Visitar Repositório</a>
 
-#### <a href="https://www.exemplo.com">2. 🖥️ Projeto Back-end</a>
+#### <a href="https://github.com/eoivo/projeto-back-end">2. 🖥️ Projeto Back-end</a>
 Esse projeto implementa funcionalidades básicas de um sistema que lida com usuários, categorias e produtos.
 
 Tecnologias principais:
