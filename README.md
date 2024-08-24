@@ -18,11 +18,12 @@
 </div>
 
 ## 🚀 Sobre Mim
+
 Atualmente, sou um desenvolvedor em formação, profundamente interessado em desenvolvimento web e comprometido em ampliar constantemente meus conhecimentos. Estou constantemente em busca de novas ferramentas e metodologias que me possibilitem criar soluções inovadoras e eficazes.
 
 Neste momento, meu objetivo é aprimorar a compreensão das tecnologias de front-end e back-end, visando construir projetos que proporcionem uma experiência do usuário excepcional.
 
-## 📫 Entre em contacto comigo
+## 📫 Entre em contato comigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/?view=cm&fs=1&to=ivofernan12@gmail.com&su=Assunto&body=Mensagem)
@@ -31,9 +32,11 @@ Neste momento, meu objetivo é aprimorar a compreensão das tecnologias de front
 )](https://linkedin.com/in/ivo-fernandes-538010316)
 
 ## 📂 Meus Projetos
+
 Bem-vindo ao meu repositório! Aqui encontras uma coleção dos meus projetos mais recentes, organizados por área de desenvolvimento. Dê uma olhada nos destaques abaixo:
 
 ### 🚀 Últimos Projetos
+
 #### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Projeto Front-end</a>
 
 
