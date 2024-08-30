@@ -1,9 +1,6 @@
-
 ## 👋 Olá, eu sou o Ivo Fernandes!
 
-
-
-![Ivo GitHub stats](https://github-readme-stats.vercel.app/api?username=eoivo&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=eoivo&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -25,11 +22,9 @@ Neste momento, meu objetivo é aprimorar a compreensão das tecnologias de front
 
 ## 📫 Entre em contato comigo
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://mail.google.com/mail/?view=cm&fs=1&to=ivofernan12@gmail.com&su=Assunto&body=Mensagem)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ivofernan12@gmail.com&su=Assunto&body=Mensagem)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](https://outlook.office.com/mail/deeplink/compose?to=ivofernand12@outlook.com&subject=Assunto&body=Mensagem)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://linkedin.com/in/ivo-fernandes-538010316)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivo-fernandes-538010316)
 
 ## 📂 Meus Projetos
 
@@ -39,8 +34,7 @@ Bem-vindo ao meu repositório! Aqui encontras uma coleção dos meus projetos ma
 
 #### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Projeto Front-end</a>
 
-
-Projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva.. 
+Projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva..
 
 Tecnologias principais:
 
@@ -51,6 +45,7 @@ Integração com APIs
 <a href="https://github.com/eoivo/projeto-front-end">Visitar Repositório</a>
 
 #### <a href="https://github.com/eoivo/projeto-back-end">2. 🖥️ Projeto Back-end</a>
+
 Esse projeto implementa funcionalidades básicas de um sistema que lida com usuários, categorias e produtos.
 
 Tecnologias principais:
