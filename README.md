@@ -32,7 +32,7 @@ Bem-vindo ao meu repositório! Aqui encontras uma coleção dos meus projetos ma
 
 ### 🚀 Últimos Projetos
 
-#### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Projeto Front-end</a>
+#### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Digital Store</a>
 
 Projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva..
 
@@ -44,16 +44,16 @@ Integração com APIs
 
 <a href="https://github.com/eoivo/projeto-front-end">Visitar Repositório</a>
 
-#### <a href="https://github.com/eoivo/projeto-back-end">2. 🖥️ Projeto Back-end</a>
+#### <a href="https://github.com/eoivo/in.orbit-">2. 🖥️ in.orbit </a>
 
-Esse projeto implementa funcionalidades básicas de um sistema que lida com usuários, categorias e produtos.
+Aplicação de gerenciamento de metas, onde os usuários podem cadastrar e gerenciar suas metas de forma eficiente e intuitiva.
 
 Tecnologias principais:
 
-Node.js, Express
-Sequelize, MySQL
-Autenticação e autorização de utilizadores
+Node.js, TypeScript
+Fastify, PostgreSQL
+Docker, DrizzleORM.
 
-<a href="https://github.com/eoivo/projeto-back-end">Visitar Repositório</a>
+<a href="https://github.com/eoivo/in.orbit-">Visitar Repositório</a>
 
 Sinta-se à vontade para explorar os projetos e partilhar o teu feedback!
