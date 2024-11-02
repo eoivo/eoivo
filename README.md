@@ -30,7 +30,7 @@ Bem-vindo ao meu repositório! Aqui encontras uma coleção dos meus projetos ma
 
 ### 🚀 Últimos Projetos
 
-#### <a href="https://github.com/eoivo/projeto-front-end">1. 🌐 Digital Store</a>
+#### <a href="https://ivo-digital-store.netlify.app/">1. 🌐 Digital Store</a>
 
 Projeto de e-commerce desenvolvido para oferecer uma experiência de compra online com uma interface moderna e intuitiva..
 
@@ -40,9 +40,9 @@ HTML5, CSS3, JavaScript
 Frameworks: React, Bootstrap
 Integração com APIs
 
-<a href="https://github.com/eoivo/projeto-front-end">Visitar Repositório</a>
+<a href="https://github.com/eoivo/digital-store">Visitar Repositório</a>
 
-#### <a href="https://github.com/eoivo/ce-digital-finances">2. 🖥️ CE Digital Finanças </a>
+#### <a href="https://ce-digital-finances.netlify.app/">2. 🖥️ CE Digital Finanças </a>
 
 Projeto que permite controlar suas finanças e gerenciar suas transações de maneira simples e eficaz.
 
