@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Ivo Fernandes!
+## 👋 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoivo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 🛠️ Tecnologias e Ferramentas
@@ -15,11 +15,6 @@
    <img align="center" alt="netlify"src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
    <img align="center" alt="render"src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
 </div>
-
-## 🚀 Sobre Mim
-
-Atualmente, sou um desenvolvedor em formação, profundamente interessado em desenvolvimento web e comprometido em ampliar constantemente meus conhecimentos. Estou constantemente em busca de novas ferramentas e metodologias que me possibilitem criar soluções inovadoras e eficazes.
-
 
 ## 📫 Entre em contato comigo
 
