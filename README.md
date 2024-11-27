@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Ivo Fernandes!
 
-![eoivo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eoivo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eoivo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br/>
