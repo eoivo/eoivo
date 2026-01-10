@@ -86,8 +86,6 @@ Building the backbone of web applications.
 ## 📊 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eoivo&theme=radical&hide_border=true&background=0D1117"/>
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eoivo&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </div>
 
