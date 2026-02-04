@@ -16,6 +16,8 @@ My focus goes beyond writing code; I strive to build **robust systems**, **intui
 - 💡 **Core Interest:** Object-Oriented Programming (OOP) applied to modern web development.
 - 🌱 **Learning:** Micro-frontends and Autonomous AI Agents.
 
+> 💼 **Note:** My most substantial projects are in private repositories due to their commercial nature. Visit my **[Portfolio](https://ivo-fernandes.netlify.app/)** for a comprehensive view of my work.
+
 ---
 
 ## ⚡ What I Do Best
