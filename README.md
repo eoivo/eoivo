@@ -1,43 +1,48 @@
-# Hi there, I'm Ivo Martins 👋
+# Hi there, I'm Ivo Fernandes 👋
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Web+Applications;Bridging+Frontend+Architecture+%26+AI;React+%7C+Next.js+%7C+TypeScript;Turning+Logic+into+Interfaces)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production-Grade+SaaS+Systems;Publishing+SDKs+%7C+Architecting+at+Scale;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Shipping+Code+That+Actually+Matters)
 
 </div>
 
 ## 🚀 Who I Am
 
-I am a **Full-Stack Developer** passionate about software architecture and the intersection of modern frontend with Artificial Intelligence. 
+I'm a **Full-Stack Developer** who builds systems that actually ship to production and generate revenue.
 
-My focus goes beyond writing code; I strive to build **robust systems**, **intuitive user interfaces**, and **scalable solutions**. While much of my core work involves developing proprietary enterprise systems (Design Systems, SaaS Dashboards, and Management Platforms), I am constantly exploring new technologies to improve developer experience and end-user value.
+From publishing SDKs on NPM to architecting multi-tenant SaaS platforms with billing engines and AI-powered churn prediction — I focus on the intersection of **scalable architecture**, **business-critical systems**, and **AI integration**.
 
-- 🔭 **Current Focus:** Advanced React Patterns, System Standardization, and LLM Integration (OpenAI/Gemini).
-- 💡 **Core Interest:** Object-Oriented Programming (OOP) applied to modern web development.
-- 🌱 **Learning:** Micro-frontends and Autonomous AI Agents.
+Most of my work involves proprietary enterprise products, but the technical challenges are real: multi-tenancy, webhook orchestration, async processing (Bull/Redis), biometric SDKs, and ML pipelines.
+
+- 🔭 **Current Focus:** SaaS Architecture, AI Agents, and Production-Grade TypeScript
+- 💡 **Core Strength:** Turning complex business requirements into maintainable code
+- 🌱 **Exploring:** Micro-frontends, Autonomous AI workflows, and Advanced Observability
 
 > 💼 **Note:** My most substantial projects are in private repositories due to their commercial nature. Visit my **[Portfolio](https://ivo-fernandes.netlify.app/)** for a comprehensive view of my work.
 
 ---
 
-## ⚡ What I Do Best
+## ⚡ What I Actually Build
 
-Since many of my most complex projects are private/commercial, here is a breakdown of the technical challenges I solve daily:
+### 🏗️ SaaS & Business Systems
+Real production systems with paying customers.
+- **Expertise:** Multi-tenant architecture, billing engines, webhook orchestration, async workers (Bull/Redis)
+- **Built:** Recurring payment platforms, retail POS systems, event management SaaS, restaurant automation
 
-### 🎨 Frontend Architecture & Design Systems
-I specialize in building standardized UI libraries and complex layouts.
-- **Tools:** React 19, Next.js 15, Tailwind CSS, TypeScript.
-- **Focus:** Component reusability, Atomic Design, and consistent typography/layout standardization.
+### 🧠 AI Integration (Not Just Prompts)
+Practical AI implementations that solve business problems.
+- **Delivered:** Churn prediction models, AI-powered customer assistants, intelligent calculators, automated reporting
+- **Stack:** OpenAI/Gemini/Claude APIs, n8n workflows, Python/Node.js pipelines
 
-### 🧠 AI Engineering & Automation
-I integrate Artificial Intelligence into practical business flows.
-- **Implementations:** structured reporting modules using AI, intelligent chat interfaces, and automated data processing.
-- **Stack:** OpenAI API, Google Gemini, Python/Node.js scripting.
+### 📦 Developer Tools & SDKs
+Building tools other developers use.
+- **Published:** Biometric facial recognition SDK on NPM, reusable component libraries
+- **Focus:** DX (Developer Experience), TypeScript-first APIs, clean documentation
 
-### 🛠️ Full-Stack Solutions
-Building the backbone of web applications.
-- **Backend:** Node.js, Express, Supabase, and SQL/NoSQL Databases.
-- **Architecture:** MVC patterns, clean code principles, and secure API development.
+### 🎨 Frontend Architecture
+Not just pretty UIs — systematic, scalable component libraries.
+- **Approach:** Design Systems, Atomic Design, standardized patterns across products
+- **Stack:** React 19, Next.js 15, TypeScript, Tailwind CSS, Shadcn/UI, PrimeReact
 
 ---
 
@@ -57,13 +62,11 @@ Building the backbone of web applications.
 
 ### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-### Backend & Data
+### Backend & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -71,15 +74,18 @@ Building the backbone of web applications.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-
-### AI & Tools
+### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -95,7 +101,7 @@ Building the backbone of web applications.
 
 ## 💬 Let's Connect
 
-I'm always open to discussing technology, software architecture, or new opportunities.
+Open to discussing system architecture, SaaS development, AI integration, or collaboration opportunities.
 
 <div align="center">
 
