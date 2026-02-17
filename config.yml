@@ -1,0 +1,115 @@
+# Galaxy Profile Configuration
+# Your GitHub profile as a living galaxy
+
+# ============================================================================
+# IDENTITY
+# ============================================================================
+username: eoivo
+profile:
+  name: Ivo Fernandes
+  tagline: "Shipping SaaS Systems That Scale & Generate Revenue"
+  company: null  # Optional: Your company
+  location: "Fortaleza, BR"
+  bio: "Full-Stack Developer building production-grade systems. From SDKs on NPM to multi-tenant SaaS with AI integration. Most work is proprietary — check the portfolio for the full picture."
+  philosophy: "Code is poetry written in logic."
+
+social:
+  email: ivo.fernandes.dev@gmail.com
+  linkedin: ivo-fernandes-538010316
+  website: https://ivo-fernandes.netlify.app/
+
+# ============================================================================
+# GALAXY ARMS (3 Focus Areas)
+# ============================================================================
+# Each arm represents a core competency with associated technologies
+# Colors: synapse_cyan, dendrite_violet, axon_amber
+
+galaxy_arms:
+  - name: "SaaS Architecture"
+    color: synapse_cyan
+    items:
+      - Multi-tenancy
+      - Billing Engines
+      - Webhooks
+      - Bull/Redis
+      - Event Streaming
+      - Async Workers
+
+  - name: "AI Integration"
+    color: dendrite_violet
+    items:
+      - OpenAI/Gemini/Claude
+      - Churn Prediction
+      - n8n Workflows
+      - ML Pipelines
+      - AI Agents
+      - Automation
+
+  - name: "Frontend Systems"
+    color: axon_amber
+    items:
+      - React 19
+      - Next.js 15
+      - TypeScript
+      - Design Systems
+      - Shadcn/UI
+      - Atomic Design
+
+# ============================================================================
+# FEATURED PROJECTS
+# ============================================================================
+# Highlight your best public work (or placeholders for private ones)
+# Each project connects to one galaxy arm (0, 1, or 2)
+
+projects:
+  - repo: eoivo/biometric-sdk
+    arm: 2
+    description: "NPM-published facial recognition SDK. TypeScript-first API with clean docs."
+
+  - repo: eoivo/saas-starter
+    arm: 0
+    description: "Multi-tenant boilerplate with Stripe billing, webhooks, and role-based auth."
+
+  - repo: eoivo/ai-customer-assistant
+    arm: 1
+    description: "AI agent for customer support automation using Claude API + n8n workflows."
+
+# ============================================================================
+# THEME CUSTOMIZATION
+# ============================================================================
+# Deep space color palette (all colors in hex)
+# Leave empty to use defaults
+
+theme:
+  void_black: "#0A0E27"
+  deep_space: "#0D1117"
+  nebula_purple: "#8B5CF6"
+  pulsar_blue: "#00D9FF"
+  star_white: "#E0E6ED"
+  antimatter_gray: "#1C2333"
+  cosmic_dust: "#4A5568"
+  synapse_cyan: "#00D9FF"
+  dendrite_violet: "#8B5CF6"
+  axon_amber: "#F59E0B"
+
+# ============================================================================
+# STATS CONFIGURATION
+# ============================================================================
+stats:
+  metrics:
+    commits: true
+    stars: true
+    prs: true
+    issues: true
+    repos: true
+
+# ============================================================================
+# LANGUAGES
+# ============================================================================
+languages:
+  exclude:
+    - HTML
+    - CSS
+    - Shell
+    - Dockerfile
+  max_display: 6
